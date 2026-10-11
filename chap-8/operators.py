@@ -57,7 +57,7 @@ print('apple' in my_list)
 print('apple2'in my_list)
 print('apple2'not in my_list)
 
-7. Bitwise operators - AND '&' , '|' OR , XOR '^' ,NOT '~',etc
+# 7. Bitwise operators - AND '&' , '|' OR , XOR '^' ,NOT '~',etc
 a = 5
 b = 3
 print(a & b)  # 5 = 101 , 3 = 011 , 5 & 3 = 001 = 1
